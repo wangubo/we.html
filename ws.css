@@ -1,0 +1,19 @@
+#us{
+    border: 1px solid black;
+    width: 15%;
+}
+#us input:first-child{
+    padding: 10px;
+    display: inline;
+    position: relative;
+    border-radius: 20px;
+    border: 1px solid #ff3545;
+}
+#us input:last-child{
+    position: inline-block;
+    border-radius: 20px;
+    background-color: #ff3535;
+    color: #fff;
+    margin-bottom: 20px;
+    background-color: ;
+}

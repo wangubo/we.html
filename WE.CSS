@@ -1,0 +1,101 @@
+/* Created by PRAVESH SINGH PATEL */
+
+*{
+    margin: 0;
+    padding: ;
+    font-family: Poppins, sans-serif;
+    box-sizing: border-box;   
+}
+#div1{
+ border: 1px solid red;
+    
+}
+
+#ul1{
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+}
+
+.links{
+    float: right;
+}
+
+#a1{
+/*    display:block;*/
+    padding:16px;
+    color:#FFF;
+    text-decoration:none;
+    font-size:15px;
+}
+#div1{
+    border: 1px solid black;
+}
+
+#div2{
+    background:pink;
+    text-align:center;
+    display:inline-block ;
+    width: 100%;
+    min-height: /*Pravesh*/120px;
+}
+#img1{
+    height:120px;
+    width:100%;
+}
+#h1{
+    margin-top:/*Pravesh*/-80px;
+}
+
+
+
+
+
+
+#div3i{
+     display:flex;
+     height:70px;
+     padding:/*Pravesh*/18px;
+}
+#searcha{
+    height:30px;
+    width:240px;
+}
+#searchb{
+    height:30px;
+    width:/*Pravesh*/70px;
+    margin-left:20px;
+}
+#div3ii{
+    background:pink;
+    display:inline-block;
+    height: /*Pravesh*/100px;
+    width:100%;
+    background-color:#FFF;
+    padding:10px;
+}
+#img2{
+    width:/*Pravesh*/330px;
+    height:330px;
+}
+#imgad{
+    width:/*Pravesh*/100%;
+    height:180px;
+}
+
+
+
+#footer{
+    background-color:#000;
+    height:90px;
+    padding:10px;
+    color:#FFF;
+}
+
+body{
+    background-color: aqua;
+    font-size: 50px;
+        
+}
+
+
